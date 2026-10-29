@@ -28,9 +28,9 @@ STATE + QUESTION → model (1 run) → logits → keep only our answers → soft
 
 | # | Notebook | Method | Question it answers | Run |
 |---|---|---|---|---|
-| 1 | [Part 1: Noul](build-your-own-jev-part-1-noul-yes-no.ipynb) | **Noul** | Is it true? (yes/no) | [Kaggle](KAGGLE_LINK_1) |
-| 2 | [Part 2: Choice](build-your-own-jev-part-2-choice-pick-one.ipynb) | **Choice** | Which one? (pick from a list) | [Kaggle](KAGGLE_LINK_2) |
-| 3 | [Part 3: Score](build-your-own-jev-part-3-score-rate-on-scale.ipynb) | **Score** | How much? (rate on a scale) | [Kaggle](KAGGLE_LINK_3) |
+| 1 | [Part 1: Noul](build-your-own-jev-part-1-noul-yes-no.ipynb) | **Noul** | Is it true? (yes/no) | [Kaggle](https://www.kaggle.com/code/syedasimalishah/build-your-own-jev-part-1-noul-yes-no) |
+| 2 | [Part 2: Choice](build-your-own-jev-part-2-choice-pick-one.ipynb) | **Choice** | Which one? (pick from a list) | [Kaggle](https://www.kaggle.com/code/syedasimalishah/build-your-own-jev-part-2-choice-pick-one) |
+| 3 | [Part 3: Score](build-your-own-jev-part-3-score-rate-on-scale.ipynb) | **Score** | How much? (rate on a scale) | [Kaggle](https://www.kaggle.com/code/syedasimalishah/build-your-own-jev-part-3-score-rate-on-scale) |
 
 👉 Start with **Part 1**. Each part builds on the one before it.
 
